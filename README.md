@@ -11,8 +11,7 @@ The **Smart Waste Sorter** aims to automate the classification of waste material
 
 **Key Features:**
 
-* 
-**Real-Time Detection:** Processes video feeds to identify objects instantly.
+* **Real-Time Detection:** Processes video feeds to identify objects instantly.
 
 
 * **Multi-Class Classification:** Categorizes waste into specific groups, including:
@@ -30,8 +29,7 @@ The **Smart Waste Sorter** aims to automate the classification of waste material
 
 
 
-* 
-**High Precision:** Utilizes the latest YOLOv11 model for optimized detection speed and accuracy.
+* **High Precision:** Utilizes the latest YOLOv11 model for optimized detection speed and accuracy.
 
 
 
@@ -39,20 +37,16 @@ The **Smart Waste Sorter** aims to automate the classification of waste material
 
 ### Technical Stack
 
-* 
-**Language:** Python 
+* **Language:** Python 
 
 
-* 
-**Model Architecture:** YOLOv11 
+* **Model Architecture:** YOLOv11 
 
 
-* 
-**Libraries:** TensorFlow, Scikit-Learn 
+* **Libraries:** TensorFlow, Scikit-Learn 
 
 
-* 
-**Version Control:** Git & GitHub 
+* **Version Control:** Git & GitHub 
 
 
 
